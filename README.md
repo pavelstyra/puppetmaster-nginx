@@ -8,5 +8,6 @@ At the end of provision run puppetmaster will provision itself as agent with set
 
 ```
 git clone https://github.com/pavelstyra/puppetmaster-nginx.git
+cd puppetmaster-nginx
 vagrant up --provider virtualbox
 ```
